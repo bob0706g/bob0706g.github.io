@@ -1,20 +1,19 @@
 ---
 layout: post
-title: Introducing Poole
+title: Welcome to the Club
 ---
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+*Code Clubs* were designed to introduce kids to the concepts of code in a fun and accessible way.
 
 -----
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
+You can find out about [Code Club](http://codeclub.org), here 
 
-There are currently two themes built on Poole:
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more and contribute on [GitHub](https://github.com//dwp-coding-club/).
+
+Edit more later
 
 ### What's included
 
