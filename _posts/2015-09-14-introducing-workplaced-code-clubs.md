@@ -7,7 +7,7 @@ title: Welcome to the Club
 
 -----
 
-You can find out about [Code Club](http://codeclub.org), here 
+You can find out about [Code Club](http://codeclub.org.uk), here 
 
 
 
