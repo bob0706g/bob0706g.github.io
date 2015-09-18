@@ -6,7 +6,7 @@ relative_permalinks: true
 
 # Setup
 title:               DWP Code Club
-tagline:             Bridging the digital divide
+tagline:             Constructing with Code for Personal Development
 url:                 http://dwp-coding-club.github.io
 paginate:            1
 baseurl:             ""
