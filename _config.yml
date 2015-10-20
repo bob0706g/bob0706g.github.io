@@ -6,8 +6,8 @@ relative_permalinks: true
 
 # Setup
 title:               Bob stuff
-tagline:             Constructing with Code for Personal Development
-url:                 http://dwp-coding-club.github.io
+tagline:             Bob is a learner
+url:                 bob0706g.github.io
 paginate:            1
 baseurl:             ""
 
